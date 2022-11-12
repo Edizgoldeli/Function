@@ -1,4 +1,4 @@
-//Could anyone tell me the logic of this order of functions.
+
 
 #include <iostream>
 #include <iomanip>
